@@ -1,8 +1,3 @@
-package es.iesraprog2425.pruebaes
-
-import es.iesraprog2425.pruebaes.app.Calculadora
-import es.iesraprog2425.pruebaes.ui.Consola
-
 
 fun main() {
     val scanner = Scanner(System.`in`)
@@ -29,8 +24,6 @@ fun main() {
 fun main() {
     Calculadora(Consola()).iniciar()
 }
-
-
 
 import java.util.*
 
